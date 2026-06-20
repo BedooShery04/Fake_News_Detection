@@ -1,0 +1,26 @@
+[
+    {
+        "model_name": "Logistic Regression (TF-IDF)",
+        "accuracy": 0.5115247524752475,
+        "auc": 0.4864415635586723,
+        "saved_filename": "logistic_regression_tf-idf.pkl"
+    },
+    {
+        "model_name": "Random Forest (TF-IDF)",
+        "accuracy": 0.5071683168316832,
+        "auc": 0.49490480448567514,
+        "saved_filename": "random_forest_tf-idf.pkl"
+    },
+    {
+        "model_name": "Logistic Regression (Word2Vec)",
+        "accuracy": 0.9216633663366337,
+        "auc": 0.9758119350355597,
+        "saved_filename": "logistic_regression_word2vec.pkl"
+    },
+    {
+        "model_name": "Random Forest (Word2Vec)",
+        "accuracy": 0.8895841584158416,
+        "auc": 0.9536128913402169,
+        "saved_filename": "random_forest_word2vec.pkl"
+    }
+]
